@@ -1,16 +1,18 @@
-# ReduxSimpleStarter
+# Sign Up App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Creating a simple sign up app to collect basic details about customers like phone number, email, etc.
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
+* clone repo
+* npm install all dependencies
+* npm start
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/lohiaumang/signUpApp.git
 > cd ReduxSimpleStarter
 > npm install
 > npm start
